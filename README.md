@@ -1,2 +1,2 @@
 # Object-Detection-App
-Its an objection detection android application.
+Its an object detection android application.
